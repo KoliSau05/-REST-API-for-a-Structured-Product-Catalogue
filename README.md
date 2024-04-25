@@ -162,4 +162,4 @@ get availability...http://localhost:8088/addavailability
 
 Contributors
 Saurabh Koli
-Project Link :- ([[https://www.github.com/octokatherine](https://github.com/KoliSau05/)](https://github.com/KoliSau05/-REST-API-for-a-Structured-Product-Catalogue/tree/productcatalogue/SainugenAces_PLTT_SainugenAces_PLTT))
+Project Link :- (https://github.com/KoliSau05/-REST-API-for-a-Structured-Product-Catalogue/tree/productcatalogue/SainugenAces_PLTT_SainugenAces_PLTT)
